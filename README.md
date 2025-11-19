@@ -19,13 +19,13 @@ Motivated and adaptable Software Engineer with 2.5+ years in full-stack developm
 ## 📊 GitHub Highlights
 <div align="center">
 
-![Jithmi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jithminawanjana&show_icons=true&theme=tokyonight&hide_border=true)
+![Jithmi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jithmi-nawanjana&show_icons=true&theme=tokyonight&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jithminawanjana&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jithmi-nawanjana&layout=compact&theme=tokyonight&hide_border=true)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=jithminawanjana&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=jithmi-nawanjana&theme=tokyonight&hide_border=true)
 
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=jithminawanjana&theme=tokyo-night&hide_border=true)
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=jithmi-nawanjana&theme=tokyo-night&hide_border=true)
 
 </div>
 

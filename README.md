@@ -71,5 +71,5 @@ If that sounds like your team, let’s connect!
 ---
 
 📫 **Let’s Connect**  
-Feel free to reach out via [LinkedIn](www.linkedin.com/in/jithmi-nawanjana) or explore more on [GitHub](https://github.com/jithminawanjana) — happy to chat about roles, projects, or ideas.
+Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/jithmi-nawanjana/) or explore more on [GitHub](https://github.com/jithminawanjana) — happy to chat about roles, projects, or ideas.
 

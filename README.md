@@ -23,8 +23,6 @@ Motivated and adaptable Software Engineer with 2.5+ years in full-stack developm
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jithmi-nawanjana&layout=compact&theme=tokyonight&hide_border=true)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=jithmi-nawanjana&theme=tokyonight&hide_border=true)
-
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=jithmi-nawanjana&theme=tokyo-night&hide_border=true)
 
 </div>
@@ -73,5 +71,5 @@ If that sounds like your team, let’s connect!
 ---
 
 📫 **Let’s Connect**  
-Feel free to reach out via [LinkedIn](#) or explore more on [GitHub](https://github.com/jithminawanjana) — happy to chat about roles, projects, or ideas.
+Feel free to reach out via [LinkedIn](www.linkedin.com/in/jithmi-nawanjana) or explore more on [GitHub](https://github.com/jithminawanjana) — happy to chat about roles, projects, or ideas.
 
